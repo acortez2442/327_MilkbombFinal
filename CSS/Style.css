@@ -1,0 +1,41 @@
+body {
+	background-color: pink;
+}
+
+.bg_1 {
+	background-image: url('../images/PoohBear.gif');
+	background-size: contain;
+	}
+
+.bg_2 {
+	background-image: url('../images/PoohBear.gif');
+	background-size: contain;
+	}
+
+.bg_3 {
+
+
+}
+
+
+main {
+	margin: 0 auto;
+	width: 75%;
+	background-color: lightgreen;
+}
+
+#left {
+	background-color: white;
+	float: left;
+	width: 40%;
+	padding: 10px;
+	margin: 10px;
+}
+
+#right {
+	background-color: lightblue;
+	float: left;
+	width: 40%;
+	padding: 30px;
+	margin: 10px;
+}
